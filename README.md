@@ -25,3 +25,6 @@
     - **Pembagian IP** kurang efisien
     - **Routing** kurang efisien
     - Tidak bisa **menjelaskan** cara perhitungan VLSM dan CIDR
+
+
+**Selamat Mengerjakan**
