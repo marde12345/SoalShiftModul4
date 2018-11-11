@@ -14,7 +14,7 @@
 8. Pastikan semua UML dapat melakukan ping ke its.ac.id
 
 ## Perhatikan Ketika Demo
-1. **Perhitungan** subnetting VLSM dan CIDR **_dibawa saat demo_**.
+1. **Perhitungan** subnetting VLSM dan CIDR **_dibawa saat demo_** serta harus dengan **TULISAN TANGAN** sendiri.
 2. File **_.pkt_** dikirim ke email asisten penguji (Daftar asisten penguji keluar hari Selasa, 13 November 2018)
 3. **File yang didemokan** adalah file **_.pkt_** yang telah dikirim ke asisten.
 4. **Maksimal menghubungi asisten untuk demo hari Rabu, 14 November 2018**
